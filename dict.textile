@@ -111,7 +111,7 @@ h2. B
 | built-in | 内置 | | |
 | byte | 字节 | | |
 | byte code | 字节码 | | |
-| bug | 臭虫 | | |
+| bug | (计算机程序的) 故障 | | |
 | black-box abstraction | 黑箱抽象 | | |
 | box notation | 箱子表示法 | | |
 | bandwidth | 带宽 | | |
